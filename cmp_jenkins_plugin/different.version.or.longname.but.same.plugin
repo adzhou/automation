@@ -1,0 +1,96 @@
+active-directory                   Jenkins Active Directory plugin            1.39                               in cm                                 
+active-directory                   Jenkins Active Directory plugin            1.47                               in smant                              
+batch-task                         Jenkins batch task plugin                  1.17                               in cm                                 
+batch-task                         Jenkins batch task plugin                  1.19                               in smant                              
+build-blocker-plugin               Build Blocker Plugin                       1.7.1                              in cm                                 
+build-blocker-plugin               Build Blocker Plugin                       1.7.3                              in smant                              
+build-failure-analyzer             Build Failure Analyzer                     1.13.2                             in cm                                 
+build-failure-analyzer             Build Failure Analyzer                     1.16.0                             in smant                              
+build-monitor-plugin               Build Monitor View                         1.6+build.138                      in cm                                 
+build-monitor-plugin               Build Monitor View                         1.9+build.201606131328             in smant                              
+build-pipeline-plugin              Build Pipeline Plugin                      1.4.5                              in cm                                 
+build-pipeline-plugin              Build Pipeline Plugin                      1.5.3.1                            in smant                              
+build-user-vars-plugin             Jenkins user build vars plugin             1.4                                in cm                                 
+build-user-vars-plugin             Jenkins user build vars plugin             1.5                                in smant                              
+claim                              Jenkins Claim Plugin                       2.7                                in cm                                 
+claim                              Jenkins Claim Plugin                       2.8                                in smant                              
+cobertura                          Jenkins Cobertura Plugin                   1.9.7                              in cm                                 
+cobertura                          Jenkins Cobertura Plugin                   1.9.8                              in smant                              
+conditional-buildstep              conditional-buildstep                      1.3.3                              in cm                                 
+conditional-buildstep              Conditional BuildStep                      1.3.5                              in smant                              
+copyartifact                       Copy Artifact Plugin                       1.37                               in cm                                 
+copyartifact                       Copy Artifact Plugin                       1.38.1                             in smant                              
+credentials                        Credentials Plugin                         1.28                               in cm                                 
+credentials                        Credentials Plugin                         2.1.4                              in smant                              
+dashboard-view                     Dashboard View                             2.9.6                              in cm                                 
+dashboard-view                     Dashboard View                             2.9.10                             in smant                              
+delivery-pipeline-plugin           Delivery Pipeline Plugin                   0.9.4                              in cm                                 
+delivery-pipeline-plugin           Delivery Pipeline Plugin                   0.9.12                             in smant                              
+description-setter                 Jenkins description setter plugin          1.9                                in cm                                 
+description-setter                 Jenkins description setter plugin          1.10                               in smant                              
+email-ext                          Email Extension Plugin                     2.39                               in cm                                 
+email-ext                          Email Extension Plugin                     2.44                               in smant                              
+envinject                          Environment Injector Plugin                1.90                               in cm                                 
+envinject                          Environment Injector Plugin                1.92.1                             in smant                              
+git                                Jenkins Git plugin                         2.4.4                              in cm                                 
+git                                Jenkins Git plugin                         2.5.3                              in smant                              
+git-client                         Jenkins Git client plugin                  1.21.0                             in cm                                 
+git-client                         Jenkins Git client plugin                  1.19.7                             in smant                              
+github-api                         GitHub API Plugin                          1.75                               in cm                                 
+github-api                         GitHub API Plugin                          1.77                               in smant                              
+greenballs                         Green Balls                                1.14                               in cm                                 
+greenballs                         Green Balls                                1.15                               in smant                              
+groovy                             Hudson Groovy builder                      1.24                               in cm                                 
+groovy                             Groovy                                     1.29                               in smant                              
+htmlpublisher                      HTML Publisher plugin                      1.3                                in cm                                 
+htmlpublisher                      HTML Publisher plugin                      1.11                               in smant                              
+icon-shim                          Icon Shim Plugin                           2.0.2                              in cm                                 
+icon-shim                          Icon Shim Plugin                           2.0.3                              in smant                              
+jenkins-multijob-plugin            Jenkins Multijob plugin                    1.16                               in cm                                 
+jenkins-multijob-plugin            Jenkins Multijob plugin                    1.21                               in smant                              
+jenkinswalldisplay                 Jenkins Wall Display Master Project        0.6.27                             in cm                                 
+jenkinswalldisplay                 Jenkins Wall Display Master Project        0.6.30                             in smant                              
+jobConfigHistory                   Jenkins Job Configuration History Plugin   2.10                               in cm                                 
+jobConfigHistory                   Jenkins Job Configuration History Plugin   2.15                               in smant                              
+jquery                             Jenkins jQuery plugin                      1.7.2-1                            in cm                                 
+jquery                             Jenkins jQuery plugin                      1.11.2-0                           in smant                              
+junit                              JUnit Plugin                               1.10                               in cm                                 
+junit                              JUnit Plugin                               1.15                               in smant                              
+ldap                               LDAP Plugin                                1.6                                in cm                                 
+ldap                               LDAP Plugin                                1.11                               in smant                              
+log-parser                         Log Parser Plugin                          1.0.8                              in cm                                 
+log-parser                         Log Parser Plugin                          2.0                                in smant                              
+mapdb-api                          MapDB API Plugin                           1.0.6.0                            in cm                                 
+mapdb-api                          MapDB API Plugin                           1.0.9.0                            in smant                              
+matrix-auth                        Matrix Authorization Strategy Plugin       1.2                                in cm                                 
+matrix-auth                        Matrix Authorization Strategy Plugin       1.4                                in smant                              
+matrix-project                     Matrix Project Plugin                      1.4                                in cm                                 
+matrix-project                     Matrix Project Plugin                      1.7.1                              in smant                              
+nodelabelparameter                 Node and Label parameter plugin            1.7                                in cm                                 
+nodelabelparameter                 Node and Label parameter plugin            1.7.2                              in smant                              
+parameterized-trigger              Jenkins Parameterized Trigger plugin       2.25                               in cm                                 
+parameterized-trigger              Jenkins Parameterized Trigger plugin       2.32                               in smant                              
+powershell                         Hudson PowerShell plugin                   1.2                                in cm                                 
+powershell                         Jenkins PowerShell plugin                  1.3                                in smant                              
+role-strategy                      Role-based Authorization Strategy          2.2.0                              in cm                                 
+role-strategy                      Role-based Authorization Strategy          2.3.2                              in smant                              
+scm-api                            SCM API Plugin                             1.2                                in cm                                 
+scm-api                            SCM API Plugin                             1.3                                in smant                              
+script-security                    Script Security Plugin                     1.22                               in cm                                 
+script-security                    Script Security Plugin                     1.21                               in smant                              
+scripttrigger                      scripttrigger                              0.32                               in cm                                 
+scripttrigger                      scripttrigger                              0.34                               in smant                              
+slack                              Slack Notification Plugin                  1.8.1                              in cm                                 
+slack                              Slack Notification Plugin                  2.0.1                              in smant                              
+subversion                         Jenkins Subversion Plug-in                 2.5                                in cm                                 
+subversion                         Jenkins Subversion Plug-in                 2.6                                in smant                              
+summary_report                     Summary Display Plugin                     1.12                               in cm                                 
+summary_report                     Summary Display Plugin                     1.15                               in smant                              
+test-results-analyzer              Test Results Analyzer Plugin               0.2.3                              in cm                                 
+test-results-analyzer              Test Results Analyzer Plugin               0.3.4                              in smant                              
+token-macro                        Token Macro Plugin                         1.11                               in cm                                 
+token-macro                        Token Macro Plugin                         1.12.1                             in smant                              
+ws-cleanup                         Jenkins Workspace Cleanup Plugin           0.25                               in cm                                 
+ws-cleanup                         Jenkins Workspace Cleanup Plugin           0.30                               in smant                              
+zentimestamp                       Jenkins Zentimestamp plugin                3.3                                in cm                                 
+zentimestamp                       Jenkins Zentimestamp plugin                4.2                                in smant                              

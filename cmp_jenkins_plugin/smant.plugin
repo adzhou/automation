@@ -1,0 +1,124 @@
+Parameterized-Remote-Trigger       Parameterized Remote Trigger Plugin        2.2.2                                                                    
+ace-editor                         JavaScript GUI Lib: ACE Editor bundle pl   1.1                                                                      
+active-directory                   Jenkins Active Directory plugin            1.47                                                                     
+ant                                Ant Plugin                                 1.2                                                                      
+antisamy-markup-formatter          OWASP Markup Formatter Plugin              1.1                                                                      
+batch-task                         Jenkins batch task plugin                  1.19                                                                     
+branch-api                         Branch API Plugin                          1.10.2                                                                   
+build-blocker-plugin               Build Blocker Plugin                       1.7.3                                                                    
+build-failure-analyzer             Build Failure Analyzer                     1.16.0                                                                   
+build-monitor-plugin               Build Monitor View                         1.9+build.201606131328                                                   
+build-name-setter                  build-name-setter                          1.6.5                                                                    
+build-pipeline-plugin              Build Pipeline Plugin                      1.5.3.1                                                                  
+build-timeout                      Jenkins build timeout plugin               1.17.1                                                                   
+build-user-vars-plugin             Jenkins user build vars plugin             1.5                                                                      
+buildresult-trigger                Jenkins BuildResultTrigger Plug-in         0.17                                                                     
+built-on-column                    built-on-column                            1.1                                                                      
+categorized-view                   categorized-view                           1.8                                                                      
+claim                              Jenkins Claim Plugin                       2.8                                                                      
+cloudbees-folder                   Folders Plugin                             5.12                                                                     
+cobertura                          Jenkins Cobertura Plugin                   1.9.8                                                                    
+conditional-buildstep              Conditional BuildStep                      1.3.5                                                                    
+console-column-plugin              Console Column Plugin                      1.5                                                                      
+copyartifact                       Copy Artifact Plugin                       1.38.1                                                                   
+credentials                        Credentials Plugin                         2.1.4                                                                    
+cvs                                Jenkins CVS Plug-in                        2.11                                                                     
+dashboard-view                     Dashboard View                             2.9.10                                                                   
+delivery-pipeline-plugin           Delivery Pipeline Plugin                   0.9.12                                                                   
+depgraph-view                      Dependency Graph Viewer Plugin             0.11                                                                     
+description-setter                 Jenkins description setter plugin          1.10                                                                     
+downstream-buildview               Downstream build view                      1.9                                                                      
+durable-task                       Durable Task Plugin                        1.12                                                                     
+email-ext                          Email Extension Plugin                     2.44                                                                     
+envinject                          Environment Injector Plugin                1.92.1                                                                   
+external-monitor-job               External Monitor Job Type Plugin           1.4                                                                      
+extra-columns                      Extra Columns Plugin                       1.17                                                                     
+fstrigger                          Jenkins Filesystem Trigger Plug-in         0.39                                                                     
+git                                Jenkins Git plugin                         2.5.3                                                                    
+git-client                         Jenkins Git client plugin                  1.19.7                                                                   
+git-server                         Jenkins GIT server Plugin                  1.7                                                                      
+github                             GitHub plugin                              1.21.1                                                                   
+github-api                         GitHub API Plugin                          1.77                                                                     
+github-branch-source               GitHub Branch Source Plugin                1.9                                                                      
+github-organization-folder         GitHub Organization Folder Plugin          1.5                                                                      
+greenballs                         Green Balls                                1.15                                                                     
+groovy                             Groovy                                     1.29                                                                     
+groovy-postbuild                   Groovy Postbuild                           2.3.1                                                                    
+handlebars                         JavaScript GUI Lib: Handlebars bundle pl   1.1.1                                                                    
+htmlpublisher                      HTML Publisher plugin                      1.11                                                                     
+icon-shim                          Icon Shim Plugin                           2.0.3                                                                    
+ivytrigger                         Jenkins IvyTrigger Plug-in                 0.34                                                                     
+javadoc                            Javadoc Plugin                             1.1                                                                      
+jenkins-flowdock-plugin            Flowdock plugin                            1.1.8                                                                    
+jenkins-multijob-plugin            Jenkins Multijob plugin                    1.21                                                                     
+jenkinswalldisplay                 Jenkins Wall Display Master Project        0.6.30                                                                   
+jobConfigHistory                   Jenkins Job Configuration History Plugin   2.15                                                                     
+jquery                             Jenkins jQuery plugin                      1.11.2-0                                                                 
+jquery-detached                    JavaScript GUI Lib: jQuery bundles (jQue   1.2.1                                                                    
+jquery-ui                          Jenkins jQuery UI plugin                   1.0.2                                                                    
+junit                              JUnit Plugin                               1.15                                                                     
+ldap                               LDAP Plugin                                1.11                                                                     
+log-parser                         Log Parser Plugin                          2.0                                                                      
+m2-repo-reaper                     M2 Repository Cleanup Plugin               1.0                                                                      
+mail-watcher-plugin                Mail Watcher Plugin                        1.13                                                                     
+mailer                             Jenkins Mailer Plugin                      1.17                                                                     
+mapdb-api                          MapDB API Plugin                           1.0.9.0                                                                  
+matrix-auth                        Matrix Authorization Strategy Plugin       1.4                                                                      
+matrix-project                     Matrix Project Plugin                      1.7.1                                                                    
+maven-plugin                       Maven Integration plugin                   2.7.1                                                                    
+momentjs                           JavaScript GUI Lib: Moment.js bundle plu   1.1.1                                                                    
+nodejs                             NodeJS Plugin                              0.2.1                                                                    
+nodelabelparameter                 Node and Label parameter plugin            1.7.2                                                                    
+pam-auth                           PAM Authentication plugin                  1.1                                                                      
+parameterized-trigger              Jenkins Parameterized Trigger plugin       2.32                                                                     
+pipeline-build-step                Pipeline: Build Step                       2.2                                                                      
+pipeline-graph-analysis            Pipeline Graph Analysis Plugin             1.1                                                                      
+pipeline-input-step                Pipeline: Input Step                       2.1                                                                      
+pipeline-rest-api                  Pipeline: REST API Plugin                  2.0                                                                      
+pipeline-stage-step                Pipeline: Stage Step                       2.2                                                                      
+pipeline-stage-view                Pipeline: Stage View Plugin                2.0                                                                      
+plain-credentials                  Plain Credentials Plugin                   1.2                                                                      
+postbuild-task                     Hudson Post build task                     1.8                                                                      
+postbuildscript                    Jenkins Post-Build Script Plug-in          0.17                                                                     
+powershell                         Jenkins PowerShell plugin                  1.3                                                                      
+promoted-builds                    Jenkins promoted builds plugin             2.27                                                                     
+python                             Python Plugin                              1.3                                                                      
+python-wrapper                     Python Wrapper Plugin                      1.0.3                                                                    
+read-only-configurations           Read-only configurations                   1.10                                                                     
+rich-text-publisher-plugin         Rich Text Publisher Plugin                 1.3                                                                      
+role-strategy                      Role-based Authorization Strategy          2.3.2                                                                    
+ruby                               Hudson Ruby Plugin                         1.2                                                                      
+run-condition                      Run Condition Plugin                       1.0                                                                      
+scm-api                            SCM API Plugin                             1.3                                                                      
+script-security                    Script Security Plugin                     1.21                                                                     
+scripttrigger                      scripttrigger                              0.34                                                                     
+secondary-timestamper-plugin       Jenkins secondary timestamper plugin       1.1                                                                      
+sectioned-view                     Sectioned View Plugin                      1.20                                                                     
+slack                              Slack Notification Plugin                  2.0.1                                                                    
+ssh-credentials                    SSH Credentials Plugin                     1.12                                                                     
+ssh-slaves                         Jenkins SSH Slaves plugin                  1.9                                                                      
+structs                            Structs Plugin                             1.5                                                                      
+subversion                         Jenkins Subversion Plug-in                 2.6                                                                      
+summary_report                     Summary Display Plugin                     1.15                                                                     
+test-results-analyzer              Test Results Analyzer Plugin               0.3.4                                                                    
+thinBackup                         ThinBackup                                 1.7.4                                                                    
+timestamper                        Timestamper                                1.8.4                                                                    
+token-macro                        Token Macro Plugin                         1.12.1                                                                   
+translation                        Jenkins Translation Assistance plugin      1.10                                                                     
+upstream-downstream-view           Jenkins Upstream Downstream Column Plugi   1.006                                                                    
+urltrigger                         Jenkins URLTrigger Plug-in                 0.41                                                                     
+windows-slaves                     Windows Slaves Plugin                      1.0                                                                      
+workflow-aggregator                Pipeline                                   2.3                                                                      
+workflow-api                       Pipeline: API                              2.3                                                                      
+workflow-basic-steps               Pipeline: Basic Steps                      2.1                                                                      
+workflow-cps                       Pipeline: Groovy                           2.15                                                                     
+workflow-cps-global-lib            Pipeline: Shared Groovy Libraries          2.3                                                                      
+workflow-durable-task-step         Pipeline: Nodes and Processes              2.4                                                                      
+workflow-job                       Pipeline: Job                              2.6                                                                      
+workflow-multibranch               Pipeline: Multibranch                      2.8                                                                      
+workflow-scm-step                  Pipeline: SCM Step                         2.2                                                                      
+workflow-step-api                  Pipeline: Step API                         2.3                                                                      
+workflow-support                   Pipeline: Supporting APIs                  2.2                                                                      
+ws-cleanup                         Jenkins Workspace Cleanup Plugin           0.30                                                                     
+xtrigger                           Jenkins XTrigger Plug-in                   0.54                                                                     
+zentimestamp                       Jenkins Zentimestamp plugin                4.2                                                                      

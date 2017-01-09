@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='MessageLog.xsl'?>
+<Log FirstSessionID="1" LastSessionID="2"><Message Date="10/31/2010" Time="3:43:48 PM"     DateTime="2010-10-31T20:43:48.937Z" SessionID="1"><From><User FriendlyName="Jon"/></From>    <To><User FriendlyName="Bill"/></To><Text Style="font-family:Segoe UI; color:#000000; ">hey, what's up?</Text></Message>
+    <Message Date="10/31/2010" Time="3:44:03 PM" DateTime="2010-10-15T20:44:03.421Z" SessionID="1"><From><User FriendlyName="Jon"/></From><To><User FriendlyName="Bill"/></To><Text Style="font-family:Segoe UI; color:#000000; ">Got your message</Text></Message>
+    <Message Date="10/31/2010" Time="3:44:31 PM" DateTime="2010-10-15T20:44:31.390Z" SessionID="2"><From><User FriendlyName="Bill"/></From><To><User FriendlyName="Jon"/></To><Text Style="font-family:Segoe UI; color:#000000; ">oh, great</Text></Message>
+    <Message Date="10/31/2010" Time="3:44:59 PM" DateTime="2010-10-15T20:44:59.281Z" SessionID="2"><From><User FriendlyName="Bill"/></From><To><User FriendlyName="Jon"/></To><Text Style="font-family:Segoe UI; color:#000000; ">hey, i gotta run</Text></Message>
+</Log>

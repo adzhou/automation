@@ -1,0 +1,42 @@
+ghprb                              GitHub Pull Request Builder                1.33.1                             in cm                                 
+gradle                             Gradle Plugin                              1.25                               in cm                                 
+hpe-codar-plugin                   HPE_Codar                                  04.70.000-SNAPSHOT (private-07     in cm                                 
+m2release                          Jenkins Maven Release Plug-in Plug-in      0.14.0                             in cm                                 
+repo                               Jenkins REPO plugin                        1.10.3                             in cm                                 
+ssh-agent                          SSH Agent Plugin                           1.7                                in cm                                 
+throttle-concurrents               Jenkins Throttle Concurrent Builds Plug-   1.8.5                              in cm                                 
+ace-editor                         JavaScript GUI Lib: ACE Editor bundle pl   1.1                                in smant                              
+branch-api                         Branch API Plugin                          1.10.2                             in smant                              
+build-timeout                      Jenkins build timeout plugin               1.17.1                             in smant                              
+built-on-column                    built-on-column                            1.1                                in smant                              
+cloudbees-folder                   Folders Plugin                             5.12                               in smant                              
+durable-task                       Durable Task Plugin                        1.12                               in smant                              
+extra-columns                      Extra Columns Plugin                       1.17                               in smant                              
+git-server                         Jenkins GIT server Plugin                  1.7                                in smant                              
+github-branch-source               GitHub Branch Source Plugin                1.9                                in smant                              
+github-organization-folder         GitHub Organization Folder Plugin          1.5                                in smant                              
+groovy-postbuild                   Groovy Postbuild                           2.3.1                              in smant                              
+handlebars                         JavaScript GUI Lib: Handlebars bundle pl   1.1.1                              in smant                              
+jquery-detached                    JavaScript GUI Lib: jQuery bundles (jQue   1.2.1                              in smant                              
+momentjs                           JavaScript GUI Lib: Moment.js bundle plu   1.1.1                              in smant                              
+pipeline-build-step                Pipeline: Build Step                       2.2                                in smant                              
+pipeline-graph-analysis            Pipeline Graph Analysis Plugin             1.1                                in smant                              
+pipeline-input-step                Pipeline: Input Step                       2.1                                in smant                              
+pipeline-rest-api                  Pipeline: REST API Plugin                  2.0                                in smant                              
+pipeline-stage-step                Pipeline: Stage Step                       2.2                                in smant                              
+pipeline-stage-view                Pipeline: Stage View Plugin                2.0                                in smant                              
+python                             Python Plugin                              1.3                                in smant                              
+python-wrapper                     Python Wrapper Plugin                      1.0.3                              in smant                              
+timestamper                        Timestamper                                1.8.4                              in smant                              
+upstream-downstream-view           Jenkins Upstream Downstream Column Plugi   1.006                              in smant                              
+workflow-aggregator                Pipeline                                   2.3                                in smant                              
+workflow-api                       Pipeline: API                              2.3                                in smant                              
+workflow-basic-steps               Pipeline: Basic Steps                      2.1                                in smant                              
+workflow-cps                       Pipeline: Groovy                           2.15                               in smant                              
+workflow-cps-global-lib            Pipeline: Shared Groovy Libraries          2.3                                in smant                              
+workflow-durable-task-step         Pipeline: Nodes and Processes              2.4                                in smant                              
+workflow-job                       Pipeline: Job                              2.6                                in smant                              
+workflow-multibranch               Pipeline: Multibranch                      2.8                                in smant                              
+workflow-scm-step                  Pipeline: SCM Step                         2.2                                in smant                              
+workflow-step-api                  Pipeline: Step API                         2.3                                in smant                              
+workflow-support                   Pipeline: Supporting APIs                  2.2                                in smant                              

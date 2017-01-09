@@ -1,0 +1,2120 @@
+<localPluginManager>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.6+build.135</backupVersion>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Build Monitor View</longName>
+		<pinned>false</pinned>
+		<shortName>build-monitor-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>http://wiki.jenkins-ci.org/display/JENKINS/Build+Monitor+Plugin</url>
+		<version>1.6+build.138</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Email Extension Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>email-ext</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>http://wiki.jenkins-ci.org/display/JENKINS/Email-ext+plugin</url>
+		<version>2.39</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Hudson Ruby Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>ruby</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>http://wiki.hudson-ci.org/display/HUDSON/Ruby+Plugin</url>
+		<version>1.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Summary Display Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>summary_report</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Summary+Display+Plugin
+</url>
+		<version>1.12</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Rich Text Publisher Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>rich-text-publisher-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Rich+Text+Publisher+Plugin
+</url>
+		<version>1.3</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Active Directory plugin</longName>
+		<pinned>false</pinned>
+		<shortName>active-directory</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Active+Directory+Plugin
+</url>
+		<version>1.39</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Job Configuration History Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>jobConfigHistory</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/JobConfigHistory+Plugin
+</url>
+		<version>2.10</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>conditional-buildstep</longName>
+		<pinned>false</pinned>
+		<shortName>conditional-buildstep</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Conditional+BuildStep+Plugin
+</url>
+		<version>1.3.3</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.11</backupVersion>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins Mailer Plugin</longName>
+		<pinned>true</pinned>
+		<shortName>mailer</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>http://wiki.jenkins-ci.org/display/JENKINS/Mailer</url>
+		<version>1.17</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins batch task plugin</longName>
+		<pinned>false</pinned>
+		<shortName>batch-task</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Batch+Task+Plugin
+</url>
+		<version>1.17</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Windows Slaves Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>windows-slaves</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Windows+Slaves+Plugin
+</url>
+		<version>1.0</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Wall Display Master Project</longName>
+		<pinned>false</pinned>
+		<shortName>jenkinswalldisplay</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Wall+Display+Plugin
+</url>
+		<version>0.6.27</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Javadoc Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>javadoc</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Javadoc+Plugin
+</url>
+		<version>1.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Cobertura Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>cobertura</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Cobertura+Plugin
+</url>
+		<version>1.9.7</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Build Pipeline Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>build-pipeline-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Build+Pipeline+Plugin
+</url>
+		<version>1.4.5</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>PAM Authentication plugin</longName>
+		<pinned>false</pinned>
+		<shortName>pam-auth</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/PAM+Authentication+Plugin
+</url>
+		<version>1.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>0.2</backupVersion>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>SCM API Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>scm-api</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/SCM+API+Plugin
+</url>
+		<version>1.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Multijob plugin</longName>
+		<pinned>false</pinned>
+		<shortName>jenkins-multijob-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Multijob+Plugin
+</url>
+		<version>1.16</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.1</backupVersion>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Matrix Authorization Strategy Plugin</longName>
+		<pinned>true</pinned>
+		<shortName>matrix-auth</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Matrix+Authorization+Strategy+Plugin
+</url>
+		<version>1.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Claim Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>claim</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Claim+plugin
+</url>
+		<version>2.7</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Green Balls</longName>
+		<pinned>false</pinned>
+		<shortName>greenballs</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Green+Balls
+</url>
+		<version>1.14</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins jQuery UI plugin</longName>
+		<pinned>false</pinned>
+		<shortName>jquery-ui</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/jQuery+UI+Plugin
+</url>
+		<version>1.0.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Environment Injector Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>envinject</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/EnvInject+Plugin
+</url>
+		<version>1.90</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins SSH Slaves plugin</longName>
+		<pinned>false</pinned>
+		<shortName>ssh-slaves</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/SSH+Slaves+plugin
+</url>
+		<version>1.9</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Workspace Cleanup Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>ws-cleanup</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Workspace+Cleanup+Plugin
+</url>
+		<version>0.25</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Delivery Pipeline Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>delivery-pipeline-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Delivery+Pipeline+Plugin
+</url>
+		<version>0.9.4</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>M2 Repository Cleanup Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>m2-repo-reaper</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>https://hudson.dev.java.net/plugin/m2-repo-reaper</url>
+		<version>1.0</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Parameterized Trigger plugin</longName>
+		<pinned>false</pinned>
+		<shortName>parameterized-trigger</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Parameterized+Trigger+Plugin
+</url>
+		<version>2.25</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.54</backupVersion>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Subversion Plug-in</longName>
+		<pinned>true</pinned>
+		<shortName>subversion</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Subversion+Plugin
+</url>
+		<version>2.5</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Maven Integration plugin</longName>
+		<pinned>false</pinned>
+		<shortName>maven-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Maven+Project+Plugin
+</url>
+		<version>2.7.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.24</backupVersion>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Credentials Plugin</longName>
+		<pinned>true</pinned>
+		<shortName>credentials</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Credentials+Plugin
+</url>
+		<version>1.28</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>External Monitor Job Type Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>external-monitor-job</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Monitoring+external+jobs
+</url>
+		<version>1.4</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>2.3.4</backupVersion>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins Git plugin</longName>
+		<pinned>false</pinned>
+		<shortName>git</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin
+</url>
+		<version>2.4.4</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Run Condition Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>run-condition</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Run+Condition+Plugin
+</url>
+		<version>1.0</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins Translation Assistance plugin</longName>
+		<pinned>false</pinned>
+		<shortName>translation</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Translation+Assistance+Plugin
+</url>
+		<version>1.10</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Hudson Groovy builder</longName>
+		<pinned>false</pinned>
+		<shortName>groovy</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Groovy+plugin
+</url>
+		<version>1.24</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.15.0</backupVersion>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins Git client plugin</longName>
+		<pinned>false</pinned>
+		<shortName>git-client</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Git+Client+Plugin
+</url>
+		<version>1.21.0</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.10</backupVersion>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>SSH Credentials Plugin</longName>
+		<pinned>true</pinned>
+		<shortName>ssh-credentials</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/SSH+Credentials+Plugin
+</url>
+		<version>1.12</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins Post-Build Script Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>postbuildscript</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/PostBuildScript+Plugin
+</url>
+		<version>0.17</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins CVS Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>cvs</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/CVS+Plugin
+</url>
+		<version>2.11</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.10</backupVersion>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Token Macro Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>token-macro</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Token+Macro+Plugin
+</url>
+		<version>1.11</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>HTML Publisher plugin</longName>
+		<pinned>false</pinned>
+		<shortName>htmlpublisher</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/HTML+Publisher+Plugin
+</url>
+		<version>1.3</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>OWASP Markup Formatter Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>antisamy-markup-formatter</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/OWASP+Markup+Formatter+Plugin
+</url>
+		<version>1.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins secondary timestamper plugin</longName>
+		<pinned>false</pinned>
+		<shortName>secondary-timestamper-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/secondary-timestamper-plugin
+</url>
+		<version>1.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins jQuery plugin</longName>
+		<pinned>false</pinned>
+		<shortName>jquery</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/jQuery+Plugin
+</url>
+		<version>1.7.2-1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Ant Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>ant</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Ant+Plugin
+</url>
+		<version>1.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins Zentimestamp plugin</longName>
+		<pinned>false</pinned>
+		<shortName>zentimestamp</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Zentimestamp+Plugin
+</url>
+		<version>3.3</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>ThinBackup</longName>
+		<pinned>false</pinned>
+		<shortName>thinBackup</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/thinBackup
+</url>
+		<version>1.7.4</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Role-based Authorization Strategy</longName>
+		<pinned>false</pinned>
+		<shortName>role-strategy</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Role+Strategy+Plugin
+</url>
+		<version>2.2.0</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Hudson Post build task</longName>
+		<pinned>false</pinned>
+		<shortName>postbuild-task</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.hudson-ci.org/display/HUDSON/Post+build+task
+</url>
+		<version>1.8</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>NodeJS Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>nodejs</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/NodeJS+Plugin
+</url>
+		<version>0.2.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>MapDB API Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>mapdb-api</shortName>
+		<supportsDynamicLoad>YES</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/MapDB+API+Plugin
+</url>
+		<version>1.0.6.0</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.12</backupVersion>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Script Security Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>script-security</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Script+Security+Plugin
+</url>
+		<version>1.22</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>LDAP Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>ldap</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/LDAP+Plugin
+</url>
+		<version>1.6</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Dependency Graph Viewer Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>depgraph-view</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Dependency+Graph+View+Plugin
+</url>
+		<version>0.11</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.2-beta-4</backupVersion>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>JUnit Plugin</longName>
+		<pinned>true</pinned>
+		<shortName>junit</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin
+</url>
+		<version>1.10</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>1.4</backupVersion>
+		<bundled>true</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Matrix Project Plugin</longName>
+		<pinned>true</pinned>
+		<shortName>matrix-project</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Matrix+Project+Plugin
+</url>
+		<version>1.4</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Hudson PowerShell plugin</longName>
+		<pinned>false</pinned>
+		<shortName>powershell</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.hudson-ci.org/display/HUDSON/PowerShell+Plugin
+</url>
+		<version>1.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins description setter plugin</longName>
+		<pinned>false</pinned>
+		<shortName>description-setter</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Description+Setter+Plugin
+</url>
+		<version>1.9</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Copy Artifact Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>copyartifact</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Copy+Artifact+Plugin
+</url>
+		<version>1.37</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Log Parser Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>log-parser</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.hudson-ci.org/display/HUDSON/Log+Parser+Plugin
+</url>
+		<version>1.0.8</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Mail Watcher Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>mail-watcher-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Mail+Watcher+Plugin
+</url>
+		<version>1.13</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Build Blocker Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>build-blocker-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Build+Blocker+Plugin
+</url>
+		<version>1.7.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Downstream build view</longName>
+		<pinned>false</pinned>
+		<shortName>downstream-buildview</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Downstream+buildview+plugin
+</url>
+		<version>1.9</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>categorized-view</longName>
+		<pinned>false</pinned>
+		<shortName>categorized-view</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Categorized+Jobs+View
+</url>
+		<version>1.8</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Dashboard View</longName>
+		<pinned>false</pinned>
+		<shortName>dashboard-view</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Dashboard+View
+</url>
+		<version>2.9.6</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins URLTrigger Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>urltrigger</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/URLTrigger+Plugin
+</url>
+		<version>0.41</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>scripttrigger</longName>
+		<pinned>false</pinned>
+		<shortName>scripttrigger</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/ScriptTrigger+Plugin
+</url>
+		<version>0.32</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins BuildResultTrigger Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>buildresult-trigger</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/BuildResultTrigger+Plugin
+</url>
+		<version>0.17</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins Filesystem Trigger Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>fstrigger</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/FSTrigger+Plugin
+</url>
+		<version>0.39</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins IvyTrigger Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>ivytrigger</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/IvyTrigger+Plugin
+</url>
+		<version>0.34</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins XTrigger Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>xtrigger</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/XTrigger+Plugin
+</url>
+		<version>0.54</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Test Results Analyzer Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>test-results-analyzer</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Test+Results+Analyzer+Plugin
+</url>
+		<version>0.2.3</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Build Failure Analyzer</longName>
+		<pinned>false</pinned>
+		<shortName>build-failure-analyzer</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Build+Failure+Analyzer
+</url>
+		<version>1.13.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Node and Label parameter plugin</longName>
+		<pinned>false</pinned>
+		<shortName>nodelabelparameter</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/NodeLabel+Parameter+Plugin
+</url>
+		<version>1.7</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Flowdock plugin</longName>
+		<pinned>false</pinned>
+		<shortName>jenkins-flowdock-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Flowdock+Plugin
+</url>
+		<version>1.1.8</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Slack Notification Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>slack</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Slack+Plugin
+</url>
+		<version>1.8.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Sectioned View Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>sectioned-view</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Sectioned+View+Plugin
+</url>
+		<version>1.20</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Read-only configurations</longName>
+		<pinned>false</pinned>
+		<shortName>read-only-configurations</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Read-only+configurations+plugin
+</url>
+		<version>1.10</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>build-name-setter</longName>
+		<pinned>false</pinned>
+		<shortName>build-name-setter</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Build+Name+Setter+Plugin
+</url>
+		<version>1.6.5</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins user build vars plugin</longName>
+		<pinned>false</pinned>
+		<shortName>build-user-vars-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Build+User+Vars+Plugin
+</url>
+		<version>1.4</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Console Column Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>console-column-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Console+Column+Plugin
+</url>
+		<version>1.5</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Parameterized Remote Trigger Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>Parameterized-Remote-Trigger</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Parameterized+Remote+Trigger+Plugin
+</url>
+		<version>2.2.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins REPO plugin</longName>
+		<pinned>false</pinned>
+		<shortName>repo</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Repo+Plugin
+</url>
+		<version>1.10.3</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins Maven Release Plug-in Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>m2release</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/M2+Release+Plugin
+</url>
+		<version>0.14.0</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>GitHub API Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>github-api</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/GitHub+API+Plugin
+</url>
+		<version>1.75</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Plain Credentials Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>plain-credentials</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Plain+Credentials+Plugin
+</url>
+		<version>1.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>SSH Agent Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>ssh-agent</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/SSH+Agent+Plugin
+</url>
+		<version>1.7</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Structs Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>structs</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Structs+plugin
+</url>
+		<version>1.5</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Icon Shim Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>icon-shim</shortName>
+		<supportsDynamicLoad>YES</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/Icon+Shim+Plugin/icon-shim
+</url>
+		<version>2.0.2</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<backupVersion>2.24</backupVersion>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>true</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>Jenkins promoted builds plugin</longName>
+		<pinned>false</pinned>
+		<shortName>promoted-builds</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Promoted+Builds+Plugin
+</url>
+		<version>2.27</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>GitHub plugin</longName>
+		<pinned>false</pinned>
+		<shortName>github</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Github+Plugin
+</url>
+		<version>1.21.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>true</hasUpdate>
+		<longName>GitHub Pull Request Builder</longName>
+		<pinned>false</pinned>
+		<shortName>ghprb</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+https://wiki.jenkins-ci.org/display/JENKINS/GitHub+pull+request+builder+plugin
+</url>
+		<version>1.33.1</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>HPE_Codar</longName>
+		<pinned>false</pinned>
+		<shortName>hpe-codar-plugin</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>http://jenkins-ci.org/plugin/hpe-codar-plugin/</url>
+		<version>
+04.70.000-SNAPSHOT (private-07/14/2016 13:13-builder)
+</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<dependency/>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Jenkins Throttle Concurrent Builds Plug-in</longName>
+		<pinned>false</pinned>
+		<shortName>throttle-concurrents</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Throttle+Concurrent+Builds+Plugin
+</url>
+		<version>1.8.5</version>
+	</plugin>
+	<plugin>
+		<active>true</active>
+		<bundled>false</bundled>
+		<deleted>false</deleted>
+		<downgradable>false</downgradable>
+		<enabled>true</enabled>
+		<hasUpdate>false</hasUpdate>
+		<longName>Gradle Plugin</longName>
+		<pinned>false</pinned>
+		<shortName>gradle</shortName>
+		<supportsDynamicLoad>MAYBE</supportsDynamicLoad>
+		<url>
+http://wiki.jenkins-ci.org/display/JENKINS/Gradle+Plugin
+</url>
+		<version>1.25</version>
+	</plugin>
+</localPluginManager>

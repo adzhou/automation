@@ -1,0 +1,41 @@
+Parameterized-Remote-Trigger       Parameterized Remote Trigger Plugin        2.2.2                                                                    
+ant                                Ant Plugin                                 1.2                                                                      
+antisamy-markup-formatter          OWASP Markup Formatter Plugin              1.1                                                                      
+build-name-setter                  build-name-setter                          1.6.5                                                                    
+buildresult-trigger                Jenkins BuildResultTrigger Plug-in         0.17                                                                     
+categorized-view                   categorized-view                           1.8                                                                      
+console-column-plugin              Console Column Plugin                      1.5                                                                      
+cvs                                Jenkins CVS Plug-in                        2.11                                                                     
+depgraph-view                      Dependency Graph Viewer Plugin             0.11                                                                     
+downstream-buildview               Downstream build view                      1.9                                                                      
+external-monitor-job               External Monitor Job Type Plugin           1.4                                                                      
+fstrigger                          Jenkins Filesystem Trigger Plug-in         0.39                                                                     
+github                             GitHub plugin                              1.21.1                                                                   
+ivytrigger                         Jenkins IvyTrigger Plug-in                 0.34                                                                     
+javadoc                            Javadoc Plugin                             1.1                                                                      
+jenkins-flowdock-plugin            Flowdock plugin                            1.1.8                                                                    
+jquery-ui                          Jenkins jQuery UI plugin                   1.0.2                                                                    
+m2-repo-reaper                     M2 Repository Cleanup Plugin               1.0                                                                      
+mail-watcher-plugin                Mail Watcher Plugin                        1.13                                                                     
+mailer                             Jenkins Mailer Plugin                      1.17                                                                     
+maven-plugin                       Maven Integration plugin                   2.7.1                                                                    
+nodejs                             NodeJS Plugin                              0.2.1                                                                    
+pam-auth                           PAM Authentication plugin                  1.1                                                                      
+plain-credentials                  Plain Credentials Plugin                   1.2                                                                      
+postbuild-task                     Hudson Post build task                     1.8                                                                      
+postbuildscript                    Jenkins Post-Build Script Plug-in          0.17                                                                     
+promoted-builds                    Jenkins promoted builds plugin             2.27                                                                     
+read-only-configurations           Read-only configurations                   1.10                                                                     
+rich-text-publisher-plugin         Rich Text Publisher Plugin                 1.3                                                                      
+ruby                               Hudson Ruby Plugin                         1.2                                                                      
+run-condition                      Run Condition Plugin                       1.0                                                                      
+secondary-timestamper-plugin       Jenkins secondary timestamper plugin       1.1                                                                      
+sectioned-view                     Sectioned View Plugin                      1.20                                                                     
+ssh-credentials                    SSH Credentials Plugin                     1.12                                                                     
+ssh-slaves                         Jenkins SSH Slaves plugin                  1.9                                                                      
+structs                            Structs Plugin                             1.5                                                                      
+thinBackup                         ThinBackup                                 1.7.4                                                                    
+translation                        Jenkins Translation Assistance plugin      1.10                                                                     
+urltrigger                         Jenkins URLTrigger Plug-in                 0.41                                                                     
+windows-slaves                     Windows Slaves Plugin                      1.0                                                                      
+xtrigger                           Jenkins XTrigger Plug-in                   0.54                                                                     
